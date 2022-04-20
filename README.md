@@ -22,6 +22,7 @@ Installing
 概要
 ----
 DiscordからMinecraftサーバーを立ち上げるBOTです。
+.jarファイルを起動するstart.shとサーバーを終了するstop.shのパスが必要になります。
 
 
 
